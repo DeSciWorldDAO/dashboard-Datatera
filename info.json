@@ -1,1 +1,28 @@
-
+{"name":"Datatera",
+"tokenSymbol":null,
+"DaoOS":null,
+"address":null,
+"description":"Datatera, a startup based in Sweden, will fill the gap between healthcare and technology by giving HealthTech companies access to high-quality, real-world data which will enable them to create accurate AI models that will fuel healthcare innovation and boost value for patients.",
+"whitePaperLink":"https://www.heartcentrictech.com/",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/LIEh5gW.jpg",
+       "source": "image",
+       "link": "https://www.datatera.se"
+   }
+],
+"deleted":false,
+"primaryColor":"#88c4e9",
+"twitterHandle":"https://twitter.com/DatateraTech",
+"coingeckoId":null,
+"snapshotId":null,
+"logo":"https://i.imgur.com/LIEh5gW.jpg",
+"telegramLink":null,
+"discordLink":null,
+"website":"https://www.datatera.se",
+"tokenDescription":null,
+"tokenTradeLink":null,
+"tags":["Ecosystems", "Decentralized biotech" , "Biopharma", "Data Storage"]
+  
+}
